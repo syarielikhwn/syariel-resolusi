@@ -1,3 +1,4 @@
 Syariel Rencana Aplikasi Android
 - To Do List : Membuat dengan OOP
-- Tic Tac Toe : Membuat dengan Collation
+- Tic Tac Toe : Membuat dengan OOP
+- Perpustakaan : Membuat OOP
