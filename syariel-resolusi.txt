@@ -1,5 +1,5 @@
 Syariel Resolusi 
 - Konsisten Belajar Pemrograman
 - Membuat Aplikasi Android Sederhana
-- Menguasai Bahasa Kotlin
 - Menguasai Java
+- Membuat To do List
